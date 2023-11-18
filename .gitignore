@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Cypress generated files
+cypress/downloads/
+cypress/screenshots/
+cypress/reports/
+
+# TypeScript generated files
+dist/
+*.js
+*.js.map
+
+# IDE or editor specific files
+.vscode/
+.idea/
+
+# Other generated files
+cucumber-messages.ndjson
