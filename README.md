@@ -6,6 +6,8 @@ This project provides a structure and tools for automated testing using TypeScri
 
 This suite of tests is specifically designed to validate and test features on the [demoblaze.com](https://www.demoblaze.com) website. You'll find feature files under the `e2e/features` directory related to signup, login and adding products to the cart.
 
+https://github.com/carlosvagnoni/TypeScriptCypressCucumber/assets/106275103/15eb275e-f03d-4bb2-bfa7-d20a899891ba
+
 ## Table of Contents 📑
 - [Requirements](#requirements-)
 - [Folder Structure](#folder-structure-)
