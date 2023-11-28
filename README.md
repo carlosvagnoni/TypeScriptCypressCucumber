@@ -9,14 +9,14 @@ This suite of tests is specifically designed to validate and test features on th
 ![Typescript2](https://github.com/carlosvagnoni/TypeScriptCypressCucumber/assets/106275103/0d808d2e-8b10-408e-8d00-9d3b25ecc5fe)
 
 ## Table of Contents 📑
-- [Requirements](#requirements-)
-- [Folder Structure](#folder-structure-)
-- [Installation](#installation-)
-- [Configuration](#configuration-)
-- [Test Execution](#test-execution-)
-- [Contact](#contact-)
+- [Requirements](#requirements)
+- [Folder Structure](#folder-structure)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Test Execution](#test-execution)
+- [Contact](#contact)
 
-## Requirements 📋
+## <a id="requirements">Requirements 📋</a>
 
 - Node.js 21.2.0
 - TypeScript 5.2.2
@@ -24,7 +24,7 @@ This suite of tests is specifically designed to validate and test features on th
 - @badeball/cypress-cucumber-preprocessor 19.1.1
 - @cypress/browserify-preprocessor 3.0.2
 
-## Folder Structure 📂
+## <a id="folder-structure">Folder Structure 📂</a>
 
 - **cypress.config.ts:** Configuration file for Cypress.
 - **package-lock.json:** Specific details about exact dependency versions for the project.
@@ -43,7 +43,7 @@ This suite of tests is specifically designed to validate and test features on th
   - **pages:** Directory containing Page Object Model classes.
   - **step_definitions:** Directory with step definitions for the specifications.
 
-## Installation 🛠️
+## <a id="installation">Installation 🛠️</a>
 
 1. Clone this repository:
 
@@ -58,12 +58,12 @@ This suite of tests is specifically designed to validate and test features on th
     npm install
     ```
 
-## Configuration ⚙️
+## <a id="configuration">Configuration ⚙️</a>
 
 - Make sure you have a browser installed and configured in the script (Chrome, Edge, or Firefox).
 - You can configure the cypress.config.ts file to adjust parameters such as the base URL(url).
 
-## Test Execution ▶️
+## <a id="test-execution">Test Execution ▶️</a>
 
 Run all the tests:
 
@@ -83,7 +83,7 @@ start "" "cypress\reports\report.html"
 - On Windows environments, you can directly execute the `run.bat` file.
 - For more command-line parameters and options, refer to the Cypress documentation on [Command Line](https://docs.cypress.io/guides/guides/command-line).
 
-## Contact 📧
+## <a id="contact">Contact 📧</a>
 
 If you have any questions or suggestions, feel free to contact me through my social media accounts.
 
